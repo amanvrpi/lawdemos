@@ -1,0 +1,8 @@
+{
+  "name": "Lawdemos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "57a9b048"
+}
